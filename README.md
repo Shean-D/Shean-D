@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shean Divyan</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shean-d" alt="shean-d" /></a> </p>
 
-(img align="right" alt="Coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3VvSUc0RHdCYkVwVXhaLWlkMzFvTTNpTmpwUXxBQ3Jtc0trRU0wOEFLVmFOV09FU3VHSnRmU2t4Ml9oNTdOd2VpTGQ3UF93WWVwT0RjLUJqQ080LXRuck0yX09rQVhGeTAyY21QQ0FKYndubFhOUDN0RnlPT2V6cy01WU9BZ085bEI5cW92Z3BubWhqTzlMWW5WWQ&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&v=G-EGDH50hGE")
+
 
 - 📫 How to reach me **Sheandivyan01@gmail.com**
 
